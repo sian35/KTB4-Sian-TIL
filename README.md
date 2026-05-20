@@ -5,4 +5,4 @@
 ### 1주차 (5/13~17)
 
 ### 2주차 (5/18~24)
-- [260520]((https://github.com/sian35/KTB4-Sian-TIL/blob/main/2026_May/260520%20TIL.md)
+- [260520](https://github.com/sian35/KTB4-Sian-TIL/blob/main/2026_May/260520%20TIL.md)
