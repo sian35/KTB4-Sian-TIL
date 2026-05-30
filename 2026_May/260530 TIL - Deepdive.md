@@ -286,6 +286,33 @@ foo one    4.0    1.0
 범주형 데이터를 가변수(dummy variable)로 변환해준다.
 각 카테고리는 1과 0이 포함된 고유한 열을 갖는다.
 
+예시
+```
+# 예시 데이터
+
+data = pd.DataFrame({'색상': ['빨강', '녹색', '파랑', '빨강']})
+
+# get_dummies 적용하기
+
+dummies_data = pd.get_dummies(data)
+
+print(dummies_data)
+
+   색상_녹색  색상_빨강  색상_파랑
+0  False   True  False
+1   True  False  False
+2  False  False   True
+3  False   True  False
+
+dummies_data = pd.get_dummies(data['색상'], dtype=int)
+
+   녹색  빨강  파랑
+0   0   1   0
+1   1   0   0
+2   0   0   1
+3   0   1   0
+```
+
 >[!NOTE]
 >가변수(dummy variable)?
 >데이터를 수치형 데이터로 변환해줄 때 서로 간의 관계성이 생길 수 있기 때문에 관계성이 없는 가변수로 변환해주는 과정이 데이터 전처리에서 필요하다.
