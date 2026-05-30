@@ -280,7 +280,7 @@ foo one    4.0    1.0
 ----
 ### 5. 범주형 데이터 처리
 #### one-hot encoding
-![[Pasted image 20260530142026.png]]
+<img width="837" height="342" alt="Image" src="https://github.com/user-attachments/assets/f54e2da0-0ace-4748-9414-8f500bcddced" />
 ##### `pd.get_dummies(data)`
 범주형 데이터를 가변수(dummy variable)로 변환해준다.
 각 카테고리는 1과 0이 포함된 고유한 열을 갖는다.
