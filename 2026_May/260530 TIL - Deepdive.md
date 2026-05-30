@@ -7,6 +7,7 @@
 주어진 데이터프레임을 단순히 ***위/아래 또는 좌/우***로 연결
 axis=0 : 세로 방향
 axis=1 : 가로 방향
+
 ##### 예시 [출처](https://pandas.pydata.org/docs/user_guide/merging.html)
 ```
 df1 = pd.DataFrame(
@@ -87,7 +88,7 @@ Out[47]:
 #### 1) `df.map('적용할 함수')`
 is used specifically to apply **element-wise** UDFs
 
-예시 [출처](https://pandas.pydata.org/docs/user_guide/user_defined_functions.html)
+##### 예시 [출처](https://pandas.pydata.org/docs/user_guide/user_defined_functions.html)
 ```
 temperature_celsius = pd.DataFrame({
     "NYC": [14, 21, 23],
@@ -109,7 +110,7 @@ to_fahrenheit 함수가 6번(element 6개) 호출됨
 #### 2) `df.apply('적용할 함수')`
 allows you to apply UDFs for a **whole column or row**
 
-예시 [출처](https://pandas.pydata.org/docs/user_guide/user_defined_functions.html)
+##### 예시 [출처](https://pandas.pydata.org/docs/user_guide/user_defined_functions.html)
 ```
 temperature_celsius = pd.DataFrame({
     "NYC": [14, 21, 23],
@@ -129,7 +130,7 @@ Out[9]:
 ```
 to_fahrenheit 함수가 2번(column 2개) 호출됨
 
-예시2
+##### 예시2
 ```
 temperature = pd.DataFrame({
     "NYC": [14, 21, 23],
@@ -158,7 +159,7 @@ normalize 함수는 계산을 위해서 컬럼 단위로 평균을 구해야 함
 
 ##### `df.groupby("컬럼 명")`
 
-예시 [출처](https://pandas.pydata.org/docs/user_guide/groupby.html)
+##### 예시 [출처](https://pandas.pydata.org/docs/user_guide/groupby.html)
 ```
 df2 = pd.DataFrame({"X": ["B", "B", "A", "A"], "Y": [1, 2, 3, 4]})
 
@@ -204,7 +205,7 @@ Out[24]:
 - 데이터의 열을 기준으로 재구성해주는 메서드
 - 중복된 인덱스와 열을 허용하지 않음. 
 
-예시 [출처](https://pandas.pydata.org/docs/user_guide/reshaping.html)
+##### 예시 [출처](https://pandas.pydata.org/docs/user_guide/reshaping.html)
 ```
 data = {
    "value": range(12),
@@ -233,7 +234,7 @@ date
 - 집계 함수(aggfunc)를 지원한다.
 	- aggfunc: 데이터가 중복될 경우 사용할 집계 함수.  
 
-예시 [출처](https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html)
+##### 예시 [출처](https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html)
 ```
 df = pd.DataFrame(
     {
@@ -286,10 +287,8 @@ foo one    4.0    1.0
 범주형 데이터를 가변수(dummy variable)로 변환해준다.
 각 카테고리는 1과 0이 포함된 고유한 열을 갖는다.
 
-예시
+##### 예시
 ```
-# 예시 데이터
-
 data = pd.DataFrame({'색상': ['빨강', '녹색', '파랑', '빨강']})
 
 # get_dummies 적용하기
@@ -334,7 +333,8 @@ Timestamp('2019-01-01 12:00:00')
 ```
 
 여러 컬럼에서 날짜 정보를 모아서 datetime으로 반환도 가능
-예시 [출처](https://wikidocs.net/172646)
+
+##### 예시 [출처](https://wikidocs.net/172646)
 ```
 df = pd.DataFrame({"year": [2015, 2016], "month": [2, 3], "day": [4, 5]})
 
