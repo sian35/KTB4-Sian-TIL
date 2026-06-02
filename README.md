@@ -12,4 +12,4 @@
 - [260530 Deepdive](https://github.com/sian35/KTB4-Sian-TIL/blob/main/05_May/260530%20TIL%20-%20Deepdive.md)
 
 ### 4주차 (6/1~6/7)
-- [260601](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260601%20TIL.md)
+- [260601 데이터 전처리, 머신러닝 기초, 딥러닝 기초](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260601%20TIL.md)
