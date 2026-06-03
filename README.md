@@ -13,3 +13,4 @@
 
 ### 4주차 (6/1~6/7)
 - [260601 데이터 전처리, 머신러닝 기초, 딥러닝 기초](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260601%20TIL.md)
+- [260602 Gradient Descent, CNN](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260602%20TIL.md)
