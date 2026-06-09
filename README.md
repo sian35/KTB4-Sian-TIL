@@ -22,3 +22,4 @@
 - [260605 CrossEntropyLoss, Gradient 미분](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260605%20TIL.md)
 - [260606 Deepdive](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260606%20TIL(Deepdive).md)
 - [260608 Pretrained model, Tuning, NLP](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260608%20TIL.md)
+- [260609 Transformer model](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260609%20TIL.md)
