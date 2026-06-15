@@ -26,3 +26,6 @@
 - [260608 Pretrained model, Tuning, NLP](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260608%20TIL.md)
 - [260609 Transformer model](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260609%20TIL.md)
 - [260610 Attention](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260610%20TIL.md)
+
+### 6주차 (6/15~6/21)
+- [260615 RAG: Indexing, Retrieval, Generation](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260615%20TIL.md)
