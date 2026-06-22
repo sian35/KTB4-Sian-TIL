@@ -30,3 +30,6 @@
 ### 6주차 (6/15~6/21)
 - [260615 RAG: Indexing, Retrieval, Generation](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260615%20TIL.md)
 - [260616 고급 검색 기법](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260616%20TIL.md)
+
+### 7주차 (6/22~6/28)
+- [260622 LangChain](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260622%20TIL.md)
