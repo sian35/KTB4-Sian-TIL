@@ -35,3 +35,6 @@
 - [260622 LangChain](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260622%20TIL.md)
 - [260623 텍스트 분할, 임베딩과 벡터 저장소, 검색 추상화와 고급 검색](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260623%20TIL.md)
 - [260624 LangSmith](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260624%20TIL.md)
+
+### 8주차 (6/29~7/5)
+- [260629 LangGraph](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260629%20TIL.md)
