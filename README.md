@@ -39,3 +39,4 @@
 ### 8주차 (6/29~7/5)
 - [260629 LangGraph](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260629%20TIL.md)
 - [260630 LangGraph고급](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260630%20TIL.md)
+- [260701 LangGraph고급2](https://github.com/sian35/KTB4-Sian-TIL/blob/main/07_July/260701%20TIL.md)
