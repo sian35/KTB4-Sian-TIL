@@ -42,4 +42,4 @@
 - [260701 LangGraph고급2](https://github.com/sian35/KTB4-Sian-TIL/blob/main/07_July/260701%20TIL.md)
 
 ### 9주차 (7/6~7/12)
-- [260706 LLM Optimization]()
+- [260706 LLM Optimization](https://github.com/sian35/KTB4-Sian-TIL/blob/main/07_July/260706%20TIL.md)
