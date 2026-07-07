@@ -1,0 +1,21 @@
+.DS_Store
+*.code-workspace
+
+# Python 캐시/빌드 산물
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# 가상환경
+.venv/
+venv/
+
+# 환경변수
+.env
+
+# 에디터 설정
+.vscode/
