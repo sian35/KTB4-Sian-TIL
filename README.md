@@ -43,3 +43,4 @@
 
 ### 9주차 (7/6~7/12)
 - [260706 LLM Optimization](https://github.com/sian35/KTB4-Sian-TIL/blob/main/07_July/260706%20TIL.md)
+- [260707 고급 양자화 기법, PEFT](https://github.com/sian35/KTB4-Sian-TIL/blob/main/07_July/260707%20TIL.md)
