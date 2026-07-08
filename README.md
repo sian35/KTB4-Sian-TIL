@@ -37,10 +37,11 @@
 - [260624 LangSmith](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260624%20TIL.md)
 
 ### 8주차 (6/29~7/5)
-- [260629 LangGraph](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260629%20TIL.md)
-- [260630 LangGraph고급](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260630%20TIL.md)
-- [260701 LangGraph고급2](https://github.com/sian35/KTB4-Sian-TIL/blob/main/07_July/260701%20TIL.md)
+- [260629 LangGraph](./06_June/260629%20TIL.md)
+- [260630 LangGraph고급](./06_June/260630%20TIL.md)
+- [260701 LangGraph고급2](./07_July/260701%20TIL.md)
 
 ### 9주차 (7/6~7/12)
-- [260706 LLM Optimization](https://github.com/sian35/KTB4-Sian-TIL/blob/main/07_July/260706%20TIL.md)
-- [260707 고급 양자화 기법, PEFT](https://github.com/sian35/KTB4-Sian-TIL/blob/main/07_July/260707%20TIL.md)
+- [260706 LLM Optimization](./07_July/260706%20TIL.md)
+- [260707 고급 양자화 기법, PEFT](./07_July/260707%20TIL.md)
+- [260708 Review, Unsloth](./07_July/260708%20TIL.md)
