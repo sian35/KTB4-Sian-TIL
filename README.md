@@ -20,21 +20,21 @@
 - [260602 Gradient Descent, CNN](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260602%20TIL.md)
 - [260604 Optimizer, Gradient Descent](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260604%20TIL.md)
 - [260605 CrossEntropyLoss, Gradient 미분](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260605%20TIL.md)
-- [260606 Deepdive](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260606%20TIL(Deepdive).md)
+- [260606 Deepdive](./06_June/260606%20TIL(Deepdive).md)
 
 ### 5주차 (6/8~6/14)
-- [260608 Pretrained model, Tuning, NLP](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260608%20TIL.md)
-- [260609 Transformer model](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260609%20TIL.md)
-- [260610 Attention](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260610%20TIL.md)
+- [260608 Pretrained model, Tuning, NLP](./06_June/260608%20TIL.md)
+- [260609 Transformer model](./06_June/260609%20TIL.md)
+- [260610 Attention](./06_June/260610%20TIL.md)
 
 ### 6주차 (6/15~6/21)
-- [260615 RAG: Indexing, Retrieval, Generation](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260615%20TIL.md)
-- [260616 고급 검색 기법](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260616%20TIL.md)
+- [260615 RAG: Indexing, Retrieval, Generation](./06_June/260615%20TIL.md)
+- [260616 고급 검색 기법](./06_June/260616%20TIL.md)
 
 ### 7주차 (6/22~6/28)
-- [260622 LangChain](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260622%20TIL.md)
-- [260623 텍스트 분할, 임베딩과 벡터 저장소, 검색 추상화와 고급 검색](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260623%20TIL.md)
-- [260624 LangSmith](https://github.com/sian35/KTB4-Sian-TIL/blob/main/06_June/260624%20TIL.md)
+- [260622 LangChain](./06_June/260622%20TIL.md)
+- [260623 텍스트 분할, 임베딩과 벡터 저장소, 검색 추상화와 고급 검색](./06_June/260623%20TIL.md)
+- [260624 LangSmith](./06_June/260624%20TIL.md)
 
 ### 8주차 (6/29~7/5)
 - [260629 LangGraph](./06_June/260629%20TIL.md)
@@ -45,3 +45,6 @@
 - [260706 LLM Optimization](./07_July/260706%20TIL.md)
 - [260707 고급 양자화 기법, PEFT](./07_July/260707%20TIL.md)
 - [260708 Review, Unsloth](./07_July/260708%20TIL.md)
+
+### 10주차 (7/13~19)
+- [260713 Linux](./07_July/260713%20TIL.md)
