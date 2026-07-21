@@ -52,3 +52,4 @@
 
 ### 11주차 (7/20~7/26)
 - [260720 DevOps](./07_July/260720%20TIL.md)
+- 260721 [LangGraph](./subnotes/08_LangGraph.md) 복습
