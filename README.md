@@ -55,3 +55,7 @@
 - 260721 [LangGraph](./subnotes/08_LangGraph.md) 복습
 - 260723 week11 weekly challenge 실습
 - 260724 [LangGraph](./subnotes/08_LangGraph.md) subnote 완료
+
+### 12주차 (7/27~8/2)
+- [260727 LLM Deployment](./07_July/260727%20TIL.md)
+- 260728 [LangChain](./subnotes/07_LangChain.md) subnote 시작
